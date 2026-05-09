@@ -1,2 +1,2 @@
 ﻿# Mini-calculator
- Author Aman yadav
+ Author - Aman yadav
